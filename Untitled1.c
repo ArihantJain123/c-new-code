@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// add new line
 int main()
 {
 float bs,hra,da,gs;
