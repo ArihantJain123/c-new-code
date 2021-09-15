@@ -1,5 +1,5 @@
 #include<iostream>
-#include<stdio.h> //new 
+#include<stdio.h> // java new 
  using namespace std;
  int  main()
   {
