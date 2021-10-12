@@ -1,5 +1,5 @@
 #include<stdio.h>
-// switch case 
+// switch case here 
 int main()
 {
    char ch;
